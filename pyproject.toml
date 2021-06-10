@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "cetus"
+name = "cetus-cearcher"
 version = "0.1.0"
 description = "Client for the Cetus API"
-authors = ["Kory Kyzar <kory.kyzar@lumen.com>"]
+authors = ["Kory Kyzar <k2@korrosivesecurity.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"

@@ -8,7 +8,7 @@ Clone the repo and use [Typer CLI](https://typer.tiangolo.com/typer-cli/) to run
 
 or
 
-`pip install cetus`
+`pip install cetus-cearcher`
 
 
 Once installed, you'll need to create a file named `config.py` in the `cetus` directory and declare two variables:
