@@ -1,0 +1,44 @@
+{
+    "_index": "dns-20210406",
+    "_type": "_doc",
+    "_id": "qPomqHgBQ-jN3z38IinP",
+    "_score": 15.409918,
+    "_source": {
+      "host": "google.com",
+      "collection_timestamp": "2021-04-06T17:05:08.584392",
+      "A": [
+        "172.217.11.142"
+      ],
+      "AAAA": [
+        "2607:f8b0:4002:810::200e"
+      ],
+      "CNAME": [
+        "ns1.google.com. dns-admin.google.com. 366968769 900 900 1800 60"
+      ],
+      "MX": [
+        "40 alt3.aspmx.l.google.com.",
+        "30 alt2.aspmx.l.google.com.",
+        "20 alt1.aspmx.l.google.com.",
+        "50 alt4.aspmx.l.google.com.",
+        "10 aspmx.l.google.com."
+      ],
+      "NS": [
+        "ns2.google.com.",
+        "ns3.google.com.",
+        "ns1.google.com.",
+        "ns4.google.com."
+      ],
+      "TXT": [
+        "\"docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e\"",
+        "\"docusign=1b0a6754-49b1-4db5-8540-d2c12664b289\"",
+        "\"apple-domain-verification=30afIBcvSuDV2PLX\"",
+        "\"google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o\"",
+        "\"v=spf1 include:_spf.google.com ~all\"",
+        "\"globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=\"",
+        "\"facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95\""
+      ],
+      "SOA": [
+        "ns1.google.com. dns-admin.google.com. 366968769 900 900 1800 60"
+      ]
+    }
+  }

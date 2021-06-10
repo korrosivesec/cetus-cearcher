@@ -1,0 +1,70 @@
+{
+    "_index": "certstream-20210407",
+    "_type": "_doc",
+    "_id": "02bqqngBMuoNurzQq7ID",
+    "_score": 1.2004528,
+    "_source": {
+      "data": {
+        "cert_index": 90434307,
+        "cert_link": "http://nessie2021.ct.digicert.com/log/ct/v1/get-entries?start=90434307&end=90434307",
+        "leaf_cert": {
+          "all_domains": [
+            "*.clients6.google.com.np",
+            "*.clients6.google.com.gr",
+            "*.clients6.google.sk",
+            "*.clients6.google.de",
+            "*.clients6.google.ne.jp",
+            "*.clients6.google.sm",
+            "*.clients6.google.ms",
+            "*.clients6.google.co.ls",
+            "*.clients6.google.com.ge"
+          ],
+          "extensions": {
+            "authorityInfoAccess": "CA Issuers - URI:http://pki.goog/gsr2/GTS1O1.crt\nOCSP - URI:http://ocsp.pki.goog/gts1o1core\n",
+            "authorityKeyIdentifier": "keyid:98:D1:F8:6E:10:EB:CF:9B:EC:60:9F:18:90:1B:A0:EB:7D:09:FD:2B\n",
+            "basicConstraints": "CA:FALSE",
+            "certificatePolicies": "Policy: 1.3.6.1.4.1.11129.2.5.3\nPolicy: 2.23.140.1.2.2",
+            "crlDistributionPoints": "Full Name:\n URI:http://crl.pki.goog/GTS1O1core.crl",
+            "ctlPoisonByte": true,
+            "extendedKeyUsage": "TLS Web server authentication",
+            "keyUsage": "Digital Signature",
+            "subjectAltName": "DNS:googleapis.com, DNS:cloudendpointsapis.com, DNS:*.p.googleapis.com, DNS:*.cloudendpointsapis.com, DNS:*.clients6.google.ws, DNS:*.clients6.google.vu, DNS:*.clients6.google.vg, DNS:*.clients6.google.uz, DNS:*.clients6.google.us, DNS:*.clients6.google.tt, DNS:*.clients6.google.to, DNS:*.clients6.google.tn, DNS:*.clients6.google.tm, DNS:*.clients6.google.tl, DNS:*.clients6.google.tk, DNS:*.clients6.google.tg, DNS:*.clients6.google.tel, DNS:*.clients6.google.td, DNS:*.clients6.google.st, DNS:*.clients6.google.sr, DNS:*.clients6.google.so, DNS:*.clients6.google.sn, DNS:*.clients6.google.sm, DNS:*.clients6.google.sk, DNS:*.clients6.google.si, DNS:*.clients6.google.sh, DNS:*.clients6.google.se, DNS:*.clients6.google.sc, DNS:*.clients6.google.rw, DNS:*.clients6.google.ru, DNS:*.clients6.google.rs, DNS:*.clients6.google.ro, DNS:*.clients6.google.pt, DNS:*.clients6.google.ps, DNS:*.clients6.google.pn, DNS:*.clients6.google.pl, DNS:*.clients6.google.pk, DNS:*.clients6.google.off.ai, DNS:*.clients6.google.nu, DNS:*.clients6.google.nr, DNS:*.clients6.google.no, DNS:*.clients6.google.nl, DNS:*.clients6.google.ng, DNS:*.clients6.google.net, DNS:*.clients6.google.ne.jp, DNS:*.clients6.google.ne, DNS:*.clients6.google.mw, DNS:*.clients6.google.mv, DNS:*.clients6.google.mu, DNS:*.clients6.google.ms, DNS:*.clients6.google.mn, DNS:*.clients6.google.ml, DNS:*.clients6.google.mk, DNS:*.clients6.google.mg, DNS:*.clients6.google.me, DNS:*.clients6.google.md, DNS:*.clients6.google.lv, DNS:*.clients6.google.lu, DNS:*.clients6.google.lt, DNS:*.clients6.google.lk, DNS:*.clients6.google.li, DNS:*.clients6.google.la, DNS:*.clients6.google.kz, DNS:*.clients6.google.ki, DNS:*.clients6.google.kg, DNS:*.clients6.google.jp, DNS:*.clients6.google.jobs, DNS:*.clients6.google.jo, DNS:*.clients6.google.je, DNS:*.clients6.google.it.ao, DNS:*.clients6.google.it, DNS:*.clients6.google.is, DNS:*.clients6.google.ir, DNS:*.clients6.google.iq, DNS:*.clients6.google.info, DNS:*.clients6.google.in, DNS:*.clients6.google.im, DNS:*.clients6.google.ie, DNS:*.clients6.google.hu, DNS:*.clients6.google.ht, DNS:*.clients6.google.hr, DNS:*.clients6.google.hn, DNS:*.clients6.google.hk, DNS:*.clients6.google.gy, DNS:*.clients6.google.gr, DNS:*.clients6.google.gp, DNS:*.clients6.google.gm, DNS:*.clients6.google.gl, DNS:*.clients6.google.gg, DNS:*.clients6.google.ge, DNS:*.clients6.google.gal, DNS:*.clients6.google.ga, DNS:*.clients6.google.frl, DNS:*.clients6.google.fr, DNS:*.clients6.google.fm, DNS:*.clients6.google.fi, DNS:*.clients6.google.eus, DNS:*.clients6.google.es, DNS:*.clients6.google.ee, DNS:*.clients6.google.dz, DNS:*.clients6.google.dm, DNS:*.clients6.google.dk, DNS:*.clients6.google.dj, DNS:*.clients6.google.de, DNS:*.clients6.google.cz, DNS:*.clients6.google.cv, DNS:*.clients6.google.com.vn, DNS:*.clients6.google.com.ve, DNS:*.clients6.google.com.vc, DNS:*.clients6.google.com.uy, DNS:*.clients6.google.com.ua, DNS:*.clients6.google.com.tw, DNS:*.clients6.google.com.tr, DNS:*.clients6.google.com.tn, DNS:*.clients6.google.com.tj, DNS:*.clients6.google.com.sv, DNS:*.clients6.google.com.sl, DNS:*.clients6.google.com.sg, DNS:*.clients6.google.com.sb, DNS:*.clients6.google.com.sa, DNS:*.clients6.google.com.ru, DNS:*.clients6.google.com.qa, DNS:*.clients6.google.com.py, DNS:*.clients6.google.com.pr, DNS:*.clients6.google.com.pl, DNS:*.clients6.google.com.pk, DNS:*.clients6.google.com.ph, DNS:*.clients6.google.com.pg, DNS:*.clients6.google.com.pe, DNS:*.clients6.google.com.pa, DNS:*.clients6.google.com.om, DNS:*.clients6.google.com.nr, DNS:*.clients6.google.com.np, DNS:*.clients6.google.com.ni, DNS:*.clients6.google.com.ng, DNS:*.clients6.google.com.nf, DNS:*.clients6.google.com.na, DNS:*.clients6.google.com.my, DNS:*.clients6.google.com.mx, DNS:*.clients6.google.com.mt, DNS:*.clients6.google.com.mm, DNS:*.clients6.google.com.ly, DNS:*.clients6.google.com.lb, DNS:*.clients6.google.com.kw, DNS:*.clients6.google.com.kh, DNS:*.clients6.google.com.jo, DNS:*.clients6.google.com.jm, DNS:*.clients6.google.com.iq, DNS:*.clients6.google.com.hk, DNS:*.clients6.google.com.gt, DNS:*.clients6.google.com.gr, DNS:*.clients6.google.com.gi, DNS:*.clients6.google.com.gh, DNS:*.clients6.google.com.ge, DNS:*.clients6.google.com.fj, DNS:*.clients6.google.com.et, DNS:*.clients6.google.com.eg, DNS:*.clients6.google.com.ec, DNS:*.clients6.google.com.do, DNS:*.clients6.google.com.cy, DNS:*.clients6.google.com.cu, DNS:*.clients6.google.com.co, DNS:*.clients6.google.com.cn, DNS:*.clients6.google.com.bz, DNS:*.clients6.google.com.by, DNS:*.clients6.google.com.br, DNS:*.clients6.google.com.bo, DNS:*.clients6.google.com.bn, DNS:*.clients6.google.com.bh, DNS:*.clients6.google.com.bd, DNS:*.clients6.google.com.au, DNS:*.clients6.google.com.ar, DNS:*.clients6.google.com.ai, DNS:*.clients6.google.com.ag, DNS:*.clients6.google.com.af, DNS:*.clients6.google.com, DNS:*.clients6.google.co.zw, DNS:*.clients6.google.co.zm, DNS:*.clients6.google.co.za, DNS:*.clients6.google.co.vi, DNS:*.clients6.google.co.ve, DNS:*.clients6.google.co.uz, DNS:*.clients6.google.co.uk, DNS:*.clients6.google.co.ug, DNS:*.clients6.google.co.tz, DNS:*.clients6.google.co.th, DNS:*.clients6.google.co.nz, DNS:*.clients6.google.co.mz, DNS:*.clients6.google.co.ma, DNS:*.clients6.google.co.ls, DNS:*.clients6.google.co.kr, DNS:*.clients6.google.co.ke, DNS:*.clients6.google.co.jp, DNS:*.clients6.google.co.je, DNS:*.clients6.google.co.in, DNS:*.clients6.google.co.im, DNS:*.clients6.google.co.il, DNS:*.clients6.google.co.id, DNS:*.clients6.google.co.hu, DNS:*.clients6.google.co.cr, DNS:*.clients6.google.co.ck, DNS:*.clients6.google.co.bw, DNS:*.clients6.google.co.ao, DNS:*.clients6.google.cn, DNS:*.clients6.google.cm, DNS:*.clients6.google.cl, DNS:*.clients6.google.ci, DNS:*.clients6.google.ch, DNS:*.clients6.google.cg, DNS:*.clients6.google.cf, DNS:*.clients6.google.cd, DNS:*.clients6.google.cc, DNS:*.clients6.google.cat, DNS:*.clients6.google.ca, DNS:*.clients6.google.by, DNS:*.clients6.google.bt, DNS:*.clients6.google.bs, DNS:*.clients6.google.bj, DNS:*.clients6.google.bi, DNS:*.clients6.google.bg, DNS:*.clients6.google.bf, DNS:*.clients6.google.be, DNS:*.clients6.google.ba, DNS:*.clients6.google.az, DNS:*.clients6.google.at, DNS:*.clients6.google.as, DNS:*.clients6.google.am, DNS:*.clients6.google.al, DNS:*.clients6.google.ai, DNS:*.clients6.google.ag, DNS:*.clients6.google.af, DNS:*.clients6.google.ae, DNS:*.clients6.google.ad, DNS:*.clients6.google.ac, DNS:*.googleapis.com",
+            "subjectKeyIdentifier": "39:8A:5B:13:69:AB:61:C3:3A:17:74:1F:25:F6:A9:AF:95:14:A7:F9"
+          },
+          "fingerprint": "6E:41:A3:BE:0C:FD:2D:1C:EA:50:A6:BA:33:6F:A2:25:A4:EB:3D:BB",
+          "issuer": {
+            "C": "US",
+            "CN": "GTS CA 1O1",
+            "L": null,
+            "O": "Google Trust Services",
+            "OU": null,
+            "ST": null,
+            "aggregated": "/C=US/CN=GTS CA 1O1/O=Google Trust Services",
+            "emailAddress": null
+          },
+          "not_after": 1624983683,
+          "not_before": 1617726084,
+          "serial_number": "4E6458F48DDA7760300000000CBEB8B",
+          "signature_algorithm": "sha256, rsa",
+          "subject": {
+            "C": "US",
+            "CN": "*.googleapis.com",
+            "L": "Mountain View",
+            "O": "Google LLC",
+            "OU": null,
+            "ST": "California",
+            "aggregated": "/C=US/CN=*.googleapis.com/L=Mountain View/O=Google LLC/ST=California",
+            "emailAddress": null
+          }
+        },
+        "seen": 1617775207.389049,
+        "source": {
+          "name": "DigiCert Nessie2021 Log",
+          "url": "nessie2021.ct.digicert.com/log/"
+        },
+        "update_type": "PrecertLogEntry"
+      },
+      "message_type": "certificate_update",
+      "timestamp": "2021-04-07T06:00:08-05:00"
+    }
+  }
