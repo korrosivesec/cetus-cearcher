@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cetus_cearcher"
-version = "0.1.0"
+version = "0.1.1"
 description = "Client for the Cetus API"
 authors = ["Kory Kyzar <k2@korrosivesecurity.com>"]
 readme = "README.md"
