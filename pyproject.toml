@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Client for the Cetus API"
 authors = ["Kory Kyzar <k2@korrosivesecurity.com>"]
 readme = "README.md"
+repository = "https://github.com/korrosivesec/cetus-cearcher"
 
 [tool.poetry.scripts]
 cetus = "cetus_cearcher.main:app"
